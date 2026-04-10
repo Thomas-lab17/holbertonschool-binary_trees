@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-#include <corecrt_search.h>
 
 /**
  * main - Entry point
